@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5%EF%BC%8C%E6%AC%A2%E8%BF%8E%E4%BD%A0%E7%9A%84%E6%9D%A5%E8%AE%BF)](https://git.io/typing-svg)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=having5548)
 
 
