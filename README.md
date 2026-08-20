@@ -19,7 +19,7 @@
 | [**fuwari**](https://github.com/having5548/fuwari) | 对fuwari的二次魔改版本的三次魔改 | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white) |
 | [**xiaoyuankousuan**](https://github.com/having5548/xiaoyuankousuan) | OCR自动识别小猿口算数字，比大小 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**menav**](https://github.com/having5548/menav) | 一键部署的个人导航站生成器 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**DSH-DeskTop**](https://github.com/having5548/menav) | 基于WinUI的Deepseek harness桌面客户端 | ![C#](https://img.shields.io/badge/C%23-a179dc?logo=csharp&logoColor=white)) |
+| [**DSH-DeskTop**](https://github.com/having5548/menav) | 基于WinUI的Deepseek harness桌面客户端 | ![C#](https://img.shields.io/badge/C%23-a179dc?logo=csharp&logoColor=white)|
 
 ----
 
