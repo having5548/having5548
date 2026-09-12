@@ -17,11 +17,11 @@
 
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
-| [**fuwari**](https://github.com/having5548/fuwari) | 对 fuwari 的二次魔改版本的三次魔改 | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white) |
-| [**TravelerNote**](https://github.com/having5548/TravelerNote) | 米游社登录 + 原神每日签到 + 实时便签的 Android 客户端 | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| [**menav**](https://github.com/having5548/menav) | 一键部署的个人导航站生成器 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**DSH-Desktop**](https://github.com/having5548/deepseek-harness-desktop) | 基于 WinUI 的 DeepSeek Harness 桌面客户端 | ![C#](https://img.shields.io/badge/-C%23-a179dc?style=flat-square&logo=csharp&logoColor=white) |
-| [**dsh-notify**](https://github.com/having5548/dsh-notify) | DeepSeek Harness 通用通知插件：新会话 / 待审批 / 任务完成一个都不错过 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**fuwari**](https://github.com/having5548/fuwari) | 对 fuwari 的二次魔改版本的三次魔改 | <img src="https://skillicons.dev/icons?i=astro" alt="Astro" height="28" /> |
+| [**TravelerNote**](https://github.com/having5548/TravelerNote) | 米游社登录 + 原神每日签到 + 实时便签的 Android 客户端 | <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="28" /> |
+| [**menav**](https://github.com/having5548/menav) | 一键部署的个人导航站生成器 | <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="28" /> |
+| [**DSH-Desktop**](https://github.com/having5548/deepseek-harness-desktop) | 基于 WinUI 的 DeepSeek Harness 桌面客户端 | <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# / .NET" height="28" /> |
+| [**dsh-notify**](https://github.com/having5548/dsh-notify) | DeepSeek Harness 通用通知插件：新会话 / 待审批 / 任务完成一个都不错过 | <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="28" /> |
 
 ---
 
