@@ -47,8 +47,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=having5548&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=having5548&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+<img height="165" src="https://streak-stats.demolab.com?user=having5548&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
