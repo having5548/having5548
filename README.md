@@ -8,7 +8,6 @@
 
 - 📝 **Blog**：[me.223910.xyz](https://me.223910.xyz)
 - 🧭 **导航站**：[223910.xyz](https://223910.xyz)
-- 📺 **Bilibili**：[having5548](https://space.bilibili.com/1989656120)
 
 ---
 
